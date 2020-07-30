@@ -1,0 +1,26 @@
+{	
+	"DEMO": {
+		"MYTE": "https://myte.accenture.com/",
+		"MYTE_LOGIN": "https://federation-sts.accenture.com/adfs/ls/?wa=wsignin1.0&wtrealm=https%3a%2f%2fmyte.accenture.com%2fogte%2f&wctx=rm%3d0%26id%3dpassive%26ru%3d%252fOGTE%252fHome.aspx&wct=2019-04-01T19%3a30%3a15Z",
+		"MYTE_review": "https://myte.accenture.com/OGTE/secure/TimesheetPage.aspx?action=Review",
+		"MYTE_represent": "https://myte.accenture.com/OGTE/secure/TimesheetPage.aspx?action=Represent",
+		"MYTE_approve": "https://myte.accenture.com/OGTE/secure/TimesheetPage.aspx?action=Approve"
+		},
+	
+	"SIT": {
+		"MYTE": "https://myte.accenture.com/",
+		"MYTE_LOGIN": "https://federation-sts.accenture.com/adfs/ls/?wa=wsignin1.0&wtrealm=https%3a%2f%2fmyte.accenture.com%2fogte%2f&wctx=rm%3d0%26id%3dpassive%26ru%3d%252fOGTE%252fHome.aspx&wct=2019-04-01T19%3a30%3a15Z",
+		"MYTE_review": "https://myte.accenture.com/OGTE/secure/TimesheetPage.aspx?action=Review",
+		"MYTE_represent": "https://myte.accenture.com/OGTE/secure/TimesheetPage.aspx?action=Represent",
+		"MYTE_approve": "https://myte.accenture.com/OGTE/secure/TimesheetPage.aspx?action=Approve"
+	},
+	
+	"DEV": {
+		"MYTE": "https://myte.accenture.com/",
+		"MYTE_LOGIN": "https://federation-sts.accenture.com/adfs/ls/?wa=wsignin1.0&wtrealm=https%3a%2f%2fmyte.accenture.com%2fogte%2f&wctx=rm%3d0%26id%3dpassive%26ru%3d%252fOGTE%252fHome.aspx&wct=2019-04-01T19%3a30%3a15Z",
+		"MYTE_review": "https://myte.accenture.com/OGTE/secure/TimesheetPage.aspx?action=Review",
+		"MYTE_represent": "https://myte.accenture.com/OGTE/secure/TimesheetPage.aspx?action=Represent",
+		"MYTE_approve": "https://myte.accenture.com/OGTE/secure/TimesheetPage.aspx?action=Approve"
+		}
+		
+}
